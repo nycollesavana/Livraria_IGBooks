@@ -4,6 +4,8 @@ Repositório criado para desafio da trilha em UX/UI Designer da Digital Innovati
 A Livraria IGBooks é um protótipo web onde, trata-se de um projeto fictício voltado para vendas de livros online. 
 Nesse projeto foi possível desenvolver a entrega do Briefing da livraria, o Design System, o Wireframe e o Mockup navegável.
 
+Link do figma: https://www.figma.com/file/yBfRKjdII6f5ABBFgWpred/Untitled?type=design&node-id=1%3A2&mode=design&t=TAvQrWhF4imkw7Wb-1
+
 <img src="/igbooks_protótipo.png">
 
 # Briefing – Livraria IGBooks
